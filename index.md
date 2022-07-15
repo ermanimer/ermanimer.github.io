@@ -1,11 +1,12 @@
-# Golang Notes
+# Notes
 
-## Index
+These are my study notes about Golang and Elixir.
 
-- [Hello World](#hello-world)
+## Golang Notes
 
-## Hello World
+- [Warning About Slicing Slices](notes/golang/warning-about-slicing-slices.md)
+- [Detecting Shadowed Variables](notes/golang/detecting-shadowed-variables.md)
 
-```go
-fmt.Println("hello, world!")
-```
+## Elixir Notes
+
+- ...
