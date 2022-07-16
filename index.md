@@ -15,6 +15,7 @@ These are my study notes about Golang and Elixir.
 - [Channel Behaviors](notes/golang/channel-behaviors.md)
 - [Done Channel Pattern With Cancel Function](notes/golang/done-channel-pattern-with-cancel-function.md)
 - [Turning Off A Case In A Select With A Nil Channel](notes/golang/turning-off-a-case-in-a-select-with-a-nil-channel.md)
+- [Handling Context Cancellation And Timeout](notes/golang/handling-context-cancellation-and-timeout.md)
 
 ## Elixir Notes
 
