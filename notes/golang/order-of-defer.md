@@ -1,6 +1,6 @@
 # Order Of defer
 
-You can defer multiple closures in a Go function. They run in last-in-first-out order; the last defer registered runs first.
+You can defer multiple closures in a Go function. They run in last-in-first-out order. The last defer registered runs first.
 
 **Code:**
 

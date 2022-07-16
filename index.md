@@ -10,6 +10,7 @@ These are my study notes about Golang and Elixir.
 - [Order of defer](notes/golang/order-of-defer.md)
 - [Passing Pointer Into A Function](notes/golang/passing-pointer-into-a-function.md)
 - [Returning Nil Custom Errors](notes/golang/returning-nil-custom-errors.md)
+- [errors.Is And errors.As](notes/golang/errorsis-and-errorsas.md)
 
 ## Elixir Notes
 
