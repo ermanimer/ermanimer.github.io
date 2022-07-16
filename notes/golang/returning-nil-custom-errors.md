@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	err := generateCustomErr1(false)
+	err := generateCustomErr(false)
 	fmt.Println(err == nil)
 }
 
