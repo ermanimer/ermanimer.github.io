@@ -11,6 +11,7 @@ These are my study notes about Golang and Elixir.
 - [Passing Pointer Into A Function](notes/golang/passing-pointer-into-a-function.md)
 - [Returning Nil Custom Errors](notes/golang/returning-nil-custom-errors.md)
 - [errors.Is And errors.As](notes/golang/errorsis-and-errorsas.md)
+- [Wrapping Errors With defer](notes/golang/wrapping-errors-with-defer.md)
 
 ## Elixir Notes
 
