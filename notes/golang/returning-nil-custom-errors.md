@@ -57,7 +57,7 @@ func generateCustomErr(returnErr bool) error {
 }
 ```
 
-Or you can declare the error variable as the type of `error`:
+Or you can declare the error variable as the type of error:
 
 ```go
 func generateCustomErr(returnErr bool) error {
