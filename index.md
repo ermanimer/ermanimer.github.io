@@ -13,6 +13,7 @@ These are my study notes about Golang and Elixir.
 - [errors.Is And errors.As](notes/golang/errorsis-and-errorsas.md)
 - [Wrapping Errors With defer](notes/golang/wrapping-errors-with-defer.md)
 - [Channel Behaviors](notes/golang/channel-behaviors.md)
+- [Done Channel Pattern With Cancel Function](notes/golang/done-channel-pattern-with-cancel-function.md)
 
 ## Elixir Notes
 
