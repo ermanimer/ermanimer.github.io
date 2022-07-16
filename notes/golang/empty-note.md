@@ -10,6 +10,7 @@ This is an empty note.
 **Output:**
 
 ```
+```
 
 <hr style="height:1px;">
 
