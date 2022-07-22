@@ -18,6 +18,7 @@ These are my study notes about Golang and Elixir.
 - [Handling Context Cancellation And Timeout](notes/golang/handling-context-cancellation-and-timeout.md)
 - [Using WaitGroups](notes/golang/using-wait-groups.md)
 - [Adding Values Into A Context](notes/golang/adding-values-into-a-context.md)
+- [Using go-cmp To Compare Test Results](notes/golang/using-go-cmp-to-compare-test-results.md)
 
 ## Elixir Notes
 
