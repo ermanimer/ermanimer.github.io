@@ -1,6 +1,8 @@
+I take notes while reading books.
+
 # Notes
 
-These are my study notes about Golang and Elixir.
+These are my notes about Golang and Elixir.
 
 ## Golang Notes
 
@@ -23,3 +25,15 @@ These are my study notes about Golang and Elixir.
 ## Elixir Notes
 
 - ...
+
+# Books
+
+These are the references of my notes.
+
+## Golang Books
+
+- [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/)
+
+## Elixir Books
+
+- [Learn Functional Programming with Elixir](https://www.oreilly.com/library/view/learn-functional-programming/9781680505757/)
