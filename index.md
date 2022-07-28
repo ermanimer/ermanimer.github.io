@@ -21,6 +21,7 @@ These are my notes about Golang and Elixir.
 - [Using WaitGroups](notes/golang/using-wait-groups.md)
 - [Adding Values Into A Context](notes/golang/adding-values-into-a-context.md)
 - [Using go-cmp To Compare Test Results](notes/golang/using-go-cmp-to-compare-test-results.md)
+- [Using signal.NotifyContext For Graceful Shutdown](notes/golang/using-signalnotifycontext-for-graceful-shutdown.md)
 
 ## Elixir Notes
 
@@ -33,6 +34,7 @@ These are the references of my notes.
 ## Golang Books
 
 - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/)
+- [Concurrency In Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
 
 ## Elixir Books
 
