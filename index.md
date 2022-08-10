@@ -22,6 +22,7 @@ These are my notes about Golang and Elixir.
 - [Adding Values Into A Context](notes/golang/adding-values-into-a-context.md)
 - [Using go-cmp To Compare Test Results](notes/golang/using-go-cmp-to-compare-test-results.md)
 - [Using signal.NotifyContext For Graceful Shutdown](notes/golang/using-signalnotifycontext-for-graceful-shutdown.md)
+- [go generate Command](notes/golang/go-generate-command.md)
 
 ## Elixir Notes
 
