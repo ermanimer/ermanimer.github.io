@@ -1,4 +1,4 @@
-I take notes while reading books.
+These are my study notes.
 
 # Notes
 
@@ -30,7 +30,7 @@ These are my notes about Golang and Elixir.
 
 # Books
 
-These are the references of my notes.
+These are my favorite books.
 
 ## Golang Books
 
