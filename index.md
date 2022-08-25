@@ -23,6 +23,7 @@ These are my notes about Golang and Elixir.
 - [Using go-cmp To Compare Test Results](notes/golang/using-go-cmp-to-compare-test-results.md)
 - [Using signal.NotifyContext For Graceful Shutdown](notes/golang/using-signalnotifycontext-for-graceful-shutdown.md)
 - [go generate Command](notes/golang/go-generate-command.md)
+- [Profiling Benchmark Tests With pprof](notes/golang/profiling-benchmark-tests-with-pprof.md)
 
 ## Elixir Notes
 
