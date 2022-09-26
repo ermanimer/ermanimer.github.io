@@ -2,8 +2,6 @@ These are my study notes.
 
 # Notes
 
-These are my personal notes.
-
 ## Golang Notes
 
 - [Warning About Slicing Slices](notes/golang/warning-about-slicing-slices.md)
