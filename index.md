@@ -2,7 +2,7 @@ These are my study notes.
 
 # Notes
 
-These are my notes about Golang and Elixir.
+These are my personal notes.
 
 ## Golang Notes
 
@@ -29,15 +29,6 @@ These are my notes about Golang and Elixir.
 
 - ...
 
-# Books
+## Vim Notes
 
-These are my favorite books.
-
-## Golang Books
-
-- [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/)
-- [Concurrency In Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
-
-## Elixir Books
-
-- [Learn Functional Programming with Elixir](https://www.oreilly.com/library/view/learn-functional-programming/9781680505757/)
+- [Basic Vim Commands](notes/vim/basic-vim-commands.md)
