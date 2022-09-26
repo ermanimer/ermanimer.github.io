@@ -45,7 +45,7 @@
 | > | Shift selected text right. |
 | < | Shift selected text left. |
 | y | Copy selected text. |
-| d | Delete selected text. |
+| d | Cut selected text. |
 | ~ | Switch case of selected text. |
 
 **Cut And Paste:**
