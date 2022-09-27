@@ -88,6 +88,24 @@
 | :/%s/old/new | Replace all of the "old" with the "new". |
 | :/%s/old/new/q | Replace all of the "old" with the "new" with confirmations. |
 
+**Folding:**
+
+| Command | Description |
+|:--------|:------------|
+| zo | Open a fold |
+| zO | Open all folds |
+| zc | Close a fold |
+| zC | Close all folds |
+| za | Toggle a fold |
+
+**Scrolling:**
+
+| Command | Description |
+|:--------|:------------|
+| zt | Scroll to the top |
+| zz | Scroll to the middle |
+| zb | Scroll to the bottom |
+
 <hr style="height:1px;">
 
 [Notes](../../index.md#notes) / [Vim Notes](../../index.md#vim-notes) / [Basic Vim Commands](#basic-vim-commands)
