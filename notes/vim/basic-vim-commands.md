@@ -106,6 +106,23 @@
 | zz | Scroll to the middle |
 | zb | Scroll to the bottom |
 
+**Tab Commands:**
+
+| Command | Description |
+|:--------|:------------|
+| tabedit filename | Open a file in a new tab |
+| tabclose | Close the current tab |
+| gt | Move to the next tab |
+| gT | Move to the previous tab |
+| tabmove i | Move the current tab to the position i |
+
+**NERDTree Tab Commands:**
+
+| Command | Description |
+|:--------|:------------|
+| t | Open the selected file in a new tab |
+| s | Open the selected file in a new split window in the current tab |
+
 <hr style="height:1px;">
 
 [Notes](../../index.md#notes) / [Vim Notes](../../index.md#vim-notes) / [Basic Vim Commands](#basic-vim-commands)

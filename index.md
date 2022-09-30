@@ -1,5 +1,3 @@
-These are my study notes.
-
 # Notes
 
 ## Golang Notes
