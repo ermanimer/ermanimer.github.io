@@ -9,6 +9,7 @@ package main
 
 import (
 	"fmt"
+	"strconv"
 )
 
 func main() {
@@ -17,21 +18,23 @@ func main() {
 }
 
 type CustomErr struct {
+	Code    int
 	Message string
 }
 
-func (ce CustomErr) Error() string {
-	return ce.Message
+func (err *CustomErr) Error() string {
+	return strconv.Itoa(err.Code) + " " + err.Message
 }
 
 func generateCustomErr(returnErr bool) error {
-	var ce CustomErr
+	var err *CustomErr
 	if returnErr {
-		ce = CustomErr{
+		err = &CustomErr{
+			Code:    1,
 			Message: "custom error",
 		}
 	}
-	return ce
+	return err
 }
 ```
 
@@ -48,10 +51,10 @@ You can explicitly return nil for the error value:
 ```go
 func generateCustomErr(returnErr bool) error {
 	if returnErr {
-		ce := CustomErr{
+		err := &CustomErr{
 			Message: "custom error",
 		}
-		return ce
+		return err
 	}
 	return nil
 }
@@ -61,13 +64,13 @@ Or you can declare the error variable as the type of error:
 
 ```go
 func generateCustomErr(returnErr bool) error {
-	var ce error
+	var err error
 	if returnErr {
-		ce = CustomErr{
+		err = &CustomErr{
 			Message: "custom error",
 		}
 	}
-	return ce
+	return err
 }
 ```
 
