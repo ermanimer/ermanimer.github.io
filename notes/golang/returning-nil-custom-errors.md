@@ -1,6 +1,6 @@
 # Returning Nil Custom Errors
 
-Returning uninitialized instace of custom error will return a non-nil error.
+Returning uninitialized instance of custom error will return a non-nil error.
 
 **Code:**
 
