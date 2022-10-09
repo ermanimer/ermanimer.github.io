@@ -12,7 +12,7 @@ The operators && and || are made to work with truthy and falsy values on their l
 | Operator | Explanation |
 |:---------|:------------|
 | && | Returns the second value if the first value is truthy. Otherwise returns the first value. |
-| || | Returns the first value if the first value is true. Otherwise returns the second value. |
+| \|\| | Returns the first value if the first value is true. Otherwise returns the second value. |
 
 <hr style="height:1px;">
 
