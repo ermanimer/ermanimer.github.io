@@ -23,7 +23,7 @@
 
 ## Elixir Notes
 
-- ...
+- [Logical Operators](notes/elixir/logical-operators.md)
 
 ## Vim Notes
 
