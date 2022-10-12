@@ -78,6 +78,7 @@
 | :q | Quit. |
 | :qa | Quit all. |
 | :x | Save and quit. |
+| :xa | Save and quit all. |
 
 **Search And Replace:**
 
