@@ -74,7 +74,9 @@
 | Command | Description |
 |:--------|:------------|
 | :w | Save. |
+| :wa | Save all. |
 | :q | Quit. |
+| :qa | Quit all. |
 | :x | Save and quit. |
 
 **Search And Replace:**
@@ -92,29 +94,29 @@
 
 | Command | Description |
 |:--------|:------------|
-| zo | Open a fold |
-| zO | Open all folds |
-| zc | Close a fold |
-| zC | Close all folds |
-| za | Toggle a fold |
+| zo | Open a fold. |
+| zO | Open all folds. |
+| zc | Close a fold. |
+| zC | Close all folds. |
+| za | Toggle a fold. |
 
 **Scrolling:**
 
 | Command | Description |
 |:--------|:------------|
-| zt | Scroll to the top |
-| zz | Scroll to the middle |
-| zb | Scroll to the bottom |
+| zt | Scroll to the top. |
+| zz | Scroll to the middle. |
+| zb | Scroll to the bottom. |
 
 **Tab Commands:**
 
 | Command | Description |
 |:--------|:------------|
-| tabedit filename | Open a file in a new tab |
-| tabclose | Close the current tab |
-| gt | Move to the next tab |
-| gT | Move to the previous tab |
-| tabmove i | Move the current tab to the position i |
+| tabedit filename | Open a file in a new tab. |
+| tabclose | Close the current tab. |
+| gt | Move to the next tab. |
+| gT | Move to the previous tab. |
+| tabmove i | Move the current tab to the position i. |
 
 <hr style="height:1px;">
 
