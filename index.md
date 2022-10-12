@@ -27,4 +27,5 @@
 
 ## Vim Notes
 
-- [Basic Vim Commands](notes/vim/basic_vim_commands.md)
+- [Vim Commands](notes/vim/vim_commands.md)
+- [Vim Plugin Commands](notes/vim/vim_plugin_commands.md)
