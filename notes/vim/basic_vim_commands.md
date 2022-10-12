@@ -135,6 +135,13 @@
 | o | Open the corresponfing file |
 | p | Open the corresponding file in a preview windows |
 
+**Commentary Commands:**
+
+| Command | Description |
+|:--------|:------------|
+| gc | Comment out the visually seleceted code |
+| gcc | Comment out a line |
+
 <hr style="height:1px;">
 
 [Notes](../../index.md#notes) / [Vim Notes](../../index.md#vim-notes) / [Basic Vim Commands](#basic-vim-commands)
