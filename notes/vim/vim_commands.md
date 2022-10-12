@@ -1,4 +1,4 @@
-# Basic Vim Commands
+# Vim Commands
 
 **Cursor Movement:**
 
@@ -118,4 +118,4 @@
 
 <hr style="height:1px;">
 
-[Notes](../../index.md#notes) / [Vim Notes](../../index.md#vim-notes) / [Basic Vim Commands](#basic-vim-commands)
+[Notes](../../index.md#notes) / [Vim Notes](../../index.md#vim-notes) / [Vim Commands](#vim-commands)
