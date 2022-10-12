@@ -1,4 +1,4 @@
-# Basic Vim Commands
+# Vim Commands
 
 **Cursor Movement:**
 
@@ -74,7 +74,9 @@
 | Command | Description |
 |:--------|:------------|
 | :w | Save. |
+| :wa | Save all. |
 | :q | Quit. |
+| :qa | Quit all. |
 | :x | Save and quit. |
 
 **Search And Replace:**
@@ -92,49 +94,30 @@
 
 | Command | Description |
 |:--------|:------------|
-| zo | Open a fold |
-| zO | Open all folds |
-| zc | Close a fold |
-| zC | Close all folds |
-| za | Toggle a fold |
+| zo | Open a fold. |
+| zO | Open all folds. |
+| zc | Close a fold. |
+| zC | Close all folds. |
+| za | Toggle a fold. |
 
 **Scrolling:**
 
 | Command | Description |
 |:--------|:------------|
-| zt | Scroll to the top |
-| zz | Scroll to the middle |
-| zb | Scroll to the bottom |
+| zt | Scroll to the top. |
+| zz | Scroll to the middle. |
+| zb | Scroll to the bottom. |
 
 **Tab Commands:**
 
 | Command | Description |
 |:--------|:------------|
-| tabedit filename | Open a file in a new tab |
-| tabclose | Close the current tab |
-| gt | Move to the next tab |
-| gT | Move to the previous tab |
-| tabmove i | Move the current tab to the position i |
-
-**NERDTree Tab Commands:**
-
-| Command | Description |
-|:--------|:------------|
-| NERDTree | Open NERDtree |
-| o | Open the selected file |
-| t | Open the selected file in a new tab |
-| s | Open the selected file in a new split window in the current tab |
-
-**CtrlSF Commands:**
-
-| Command | Description |
-|:--------|:------------|
-| CtrlSFOpen | Open CtrlSF |
-| CtrlSFClose | Close CtrlSF |
-| CtrlSFToggle | Open or close CtrlSF |
-| o | Open the corresponfing file |
-| p | Open the corresponding file in a preview windows |
+| tabedit filename | Open a file in a new tab. |
+| tabclose | Close the current tab. |
+| gt | Move to the next tab. |
+| gT | Move to the previous tab. |
+| tabmove i | Move the current tab to the position i. |
 
 <hr style="height:1px;">
 
-[Notes](../../index.md#notes) / [Vim Notes](../../index.md#vim-notes) / [Basic Vim Commands](#basic-vim-commands)
+[Notes](../../index.md#notes) / [Vim Notes](../../index.md#vim-notes) / [Vim Commands](#vim-commands)
